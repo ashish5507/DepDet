@@ -214,7 +214,7 @@ The project logic is divided into modular Jupyter Notebooks, located in the `pyt
 
 | Speech features only | 77.2% | 0.76 | 0.79 |
 
-| **EEG + Speech (ours)** | **92.4%** | **0.91** | **0.94** |
+| **EEG + Speech (ours)** | **83.4%** | **0.80** | **0.79** |
 
 
 
